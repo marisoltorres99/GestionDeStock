@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using GestionDeStock.Services;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GestionDeStock.Controllers
@@ -7,5 +8,6 @@ namespace GestionDeStock.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
+        private IProductService productService;
     }
 }
