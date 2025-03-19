@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\dtos\\productinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T20:21:35.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StockMovement.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Models\\StockMovement.cs",
               "RelativeDocumentMoniker": "Models\\StockMovement.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StockContext.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\DataContext\\StockContext.cs",
               "RelativeDocumentMoniker": "DataContext\\StockContext.cs",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IRepository.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductInsertDTO.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\DTOs\\ProductInsertDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductInsertDTO.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
