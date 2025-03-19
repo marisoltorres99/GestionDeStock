@@ -1,4 +1,8 @@
+using GestionDeStock.AutoMappers;
 using GestionDeStock.DataContext;
+using GestionDeStock.DTOs;
+using GestionDeStock.Models;
+using GestionDeStock.Repository;
 using GestionDeStock.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -6,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddKeyedScoped<ICommonService<ProductDTO, ProductInsertDTO, ProductUpdateDTO>, ProductService>("productService");
 
 // Entity Framework BD
 builder.Services.AddDbContext<StockContext>(options =>
@@ -15,6 +19,11 @@ builder.Services.AddDbContext<StockContext>(options =>
 });
 
 // Repository
+builder.Services.AddScoped<IRepository<Product>, ProductRepository>();
+
+// Mappers
+
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

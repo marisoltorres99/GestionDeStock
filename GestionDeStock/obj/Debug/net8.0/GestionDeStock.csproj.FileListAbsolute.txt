@@ -171,3 +171,5 @@ C:\Users\j99wi\reposGitHub\GestionDeStock\GestionDeStock\obj\Debug\net8.0\refint
 C:\Users\j99wi\reposGitHub\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDeStock.pdb
 C:\Users\j99wi\reposGitHub\GestionDeStock\GestionDeStock\obj\Debug\net8.0\GestionDeStock.genruntimeconfig.cache
 C:\Users\j99wi\reposGitHub\GestionDeStock\GestionDeStock\obj\Debug\net8.0\ref\GestionDeStock.dll
+C:\Users\j99wi\reposGitHub\GestionDeStock\GestionDeStock\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\j99wi\reposGitHub\GestionDeStock\GestionDeStock\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
