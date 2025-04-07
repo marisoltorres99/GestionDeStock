@@ -45,5 +45,13 @@ namespace GestionDeStock.Controllers
 
             return productDTO == null ? NotFound() : Ok(productDTO);
         }
+
+        [HttpDelete("{id}")]
+
+        public async Task<ActionResult<ProductDTO>> Delete(int id)
+        {
+            var productDTO = await _productService.Delete(id);
+            return productDTO == null ? NotFound() : Ok(productDTO);
+        }
     }
 }

@@ -28,6 +28,9 @@ namespace GestionDeStock.Repository
             _stockContext.products.Entry(product).State = EntityState.Modified;
         }
 
+        public void Delete(Product product) =>
+            _stockContext.products.Remove(product);
+
         public async Task Save() =>
             await _stockContext.SaveChangesAsync();
     }

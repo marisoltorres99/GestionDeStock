@@ -68,5 +68,21 @@ namespace GestionDeStock.Services
 
             return null;
         }
+        public async Task<ProductDTO> Delete(int id)
+        {
+            var product = await _productRepository.GetById(id);
+
+            if (product != null)
+            {
+                var productDTO = _mapper.Map<ProductDTO>(product);
+
+                _productRepository.Delete(product);
+                await _productRepository.Save();
+
+                return productDTO;
+            }
+
+            return null;
+        }
     }
 }
