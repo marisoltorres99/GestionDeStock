@@ -17,6 +17,26 @@ namespace GestionDeStock.Services
             //Errors = new List<string>();
         }
 
+        public async Task<IEnumerable<ProductDTO>> Get()
+        {
+            var products = await _productRepository.Get();
+
+            return products.Select(p => _mapper.Map<ProductDTO>(p));
+        }
+
+        public async Task<ProductDTO> GetById(int id)
+        {
+            var product = await _productRepository.GetById(id);
+
+            if (product != null)
+            {
+                var productDTO = _mapper.Map<ProductDTO>(product);
+
+                return productDTO;
+            }
+
+            return null;
+        }
         public async Task<ProductDTO> Add(ProductInsertDTO productInsertDTO)
         {
             var product = _mapper.Map<Product>(productInsertDTO);
@@ -29,18 +49,6 @@ namespace GestionDeStock.Services
             var productDTO = _mapper.Map<ProductDTO>(product);
 
             return productDTO;
-        }
-
-        public async Task<IEnumerable<ProductDTO>> Get()
-        {
-            var products = await _productRepository.Get();
-
-            return products.Select(p => _mapper.Map<ProductDTO>(p));
-        }
-
-        public Task<ProductDTO> GetById(int id)
-        {
-            throw new NotImplementedException();
         }
     }
 }

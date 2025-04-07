@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\datacontext\\stockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:datacontext\\stockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StockService.cs",
-              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Services\\StockService.cs",
-              "RelativeDocumentMoniker": "Services\\StockService.cs",
-              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Services\\StockService.cs",
-              "RelativeToolTip": "Services\\StockService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:06:11.727Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -69,7 +52,7 @@
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T14:59:05.689Z",
               "EditorCaption": ""
@@ -77,45 +60,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\AutoMappers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "AutoMappers\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\AutoMappers\\MappingProfile.cs",
-              "RelativeToolTip": "AutoMappers\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:41:50.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:31:15.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Services\\ProductService.cs",
               "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T14:30:32.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ICommonService.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Services\\ICommonService.cs",
               "RelativeDocumentMoniker": "Services\\ICommonService.cs",
@@ -128,7 +85,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:15:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StockContext.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\DataContext\\StockContext.cs",
               "RelativeDocumentMoniker": "DataContext\\StockContext.cs",
@@ -141,20 +111,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:15:49.938Z",
+              "WhenOpened": "2025-03-19T14:31:15.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\AutoMappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AutoMappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\AutoMappers\\MappingProfile.cs",
+              "RelativeToolTip": "AutoMappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:41:50.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IRepository.cs",
@@ -162,8 +145,7 @@
               "RelativeToolTip": "Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:15:46.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T14:15:46.512Z"
             }
           ]
         }
