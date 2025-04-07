@@ -22,6 +22,12 @@ namespace GestionDeStock.Repository
         public async Task Add(Product beer) =>
             await _stockContext.products.AddAsync(beer);
 
+        public void Update(Product product)
+        {
+            _stockContext.products.Attach(product);
+            _stockContext.products.Entry(product).State = EntityState.Modified;
+        }
+
         public async Task Save() =>
             await _stockContext.SaveChangesAsync();
     }

@@ -50,5 +50,23 @@ namespace GestionDeStock.Services
 
             return productDTO;
         }
+        public async Task<ProductDTO> Update(int id, ProductUpdateDTO productUpdateDTO)
+        {
+            var product = await _productRepository.GetById(id);
+
+            if (product != null)
+            {
+                product = _mapper.Map<ProductUpdateDTO, Product>(productUpdateDTO, product);
+
+                _productRepository.Update(product);
+                await _productRepository.Save();
+
+                var productDTO = _mapper.Map<ProductDTO>(product);
+
+                return productDTO;
+            }
+
+            return null;
+        }
     }
 }

@@ -22,7 +22,6 @@ builder.Services.AddDbContext<StockContext>(options =>
 builder.Services.AddScoped<IRepository<Product>, ProductRepository>();
 
 // Mappers
-
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 builder.Services.AddControllers();

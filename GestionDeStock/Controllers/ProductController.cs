@@ -36,5 +36,14 @@ namespace GestionDeStock.Controllers
 
             return CreatedAtAction(nameof(GetById), new { id = productDTO.Id }, productDTO);
         }
+
+        [HttpPut("{id}")]
+
+        public async Task<ActionResult<ProductDTO>> Update(int id, ProductUpdateDTO productUpdateDTO)
+        {
+            var productDTO = await _productService.Update(id, productUpdateDTO);
+
+            return productDTO == null ? NotFound() : Ok(productDTO);
+        }
     }
 }

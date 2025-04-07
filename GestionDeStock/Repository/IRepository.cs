@@ -5,6 +5,7 @@
         Task<IEnumerable<TEntity>> Get();
         Task<TEntity> GetById(int id);
         Task Add(TEntity entity);
+        void Update(TEntity entity);
         Task Save();
     }
 }
