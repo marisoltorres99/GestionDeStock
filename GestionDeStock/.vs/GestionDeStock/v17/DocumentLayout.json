@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F4E2711-317D-4469-BBC0-CC2E78AFE2FC}|GestionDeStock.csproj|c:\\users\\j99wi\\reposgithub\\gestiondestock\\gestiondestock\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\GestionDeStock\\GestionDeStock\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
